@@ -4,7 +4,7 @@ Coffee panel on ordering progressive web application that allows users to order 
 
 The application makes use of Angular, Asp.net  core and SQL server. 
 
-# The following applications are must be installed to run the application. 
+# The following applications must be installed to run the web application. 
 
 Nodejs v 8.7.0 +
 Angular installed globally
