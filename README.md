@@ -13,12 +13,12 @@ Visual studio code ( Text editor)
 SQL server 2017 
 Modern Browser
 
-# To begin with install Node.js and angular from the fall of websites 
+# To begin with install Node.js and angular from the following websites 
 
 https://nodejs.org/en/ 
 https://angular.io/guide/quickstart 
 
-# The application makes use of a .Net core, therefore, you have to have the framework installed alongside Visual Studio 2015 or 2017 ( vs code is also recommended as a text editor )
+# The application makes use of .Net core, therefore, you have to have the framework installed alongside Visual Studio 2015 or 2017 ( vs code is also recommended as a text editor )
 
 https://dotnet.github.io 
 https://code.visualstudio.com 
