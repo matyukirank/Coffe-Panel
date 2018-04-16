@@ -7,12 +7,12 @@ The application makes use of Angular, Asp.net  core and SQL server.
 ### The following applications must be installed to run the web application. 
 
 ```
-..* Nodejs v 8.7.0 +
-..* Angular installed globally
-..* Visual Studio 2017
-..* Visual studio code ( Text editor) 
-..* SQL server 2017 
-..* Modern Browser
+- Nodejs v 8.7.0 +
+- Angular installed globally
+- Visual Studio 2017
+- Visual studio code ( Text editor) 
+- SQL server 2017 
+- Modern Browser
 ```
 
 ### To begin with install Node.js and angular from the following websites 
