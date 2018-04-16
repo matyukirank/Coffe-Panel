@@ -18,23 +18,23 @@ The application makes use of Angular, Asp.net  core and SQL server.
 ### To begin with install Node.js and angular from the following websites 
 
 ```
-..* https://nodejs.org/en/ 
-..* https://angular.io/guide/quickstart 
+- https://nodejs.org/en/ 
+- https://angular.io/guide/quickstart 
 ```
 
 ### The application makes use of .Net core, therefore, you have to have the framework installed alongside Visual Studio 2015 or 2017 ( vs code is also recommended as a text editor )
 
 ```
-..* https://dotnet.github.io 
-..* https://code.visualstudio.com 
-..* https://www.visualstudio.com/vs/whatsnew/
+- https://dotnet.github.io 
+- https://code.visualstudio.com 
+- https://www.visualstudio.com/vs/whatsnew/
 ```
 
 ### Now install SQL server 2017 including the server management studio
 
 ```
-..* https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms 
-..* https://www.microsoft.com/en-us/sql-server/sql-server-2017 
+- https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms 
+- https://www.microsoft.com/en-us/sql-server/sql-server-2017 
 ```
 
 ### Setup Database
@@ -44,22 +44,25 @@ Alternatively -> Import the database data from the files inside SQLDATA.zip ( HE
 
 ### Setup web API 
 
-Open OrderApi.sln and edit the SQL connection script in the following 
-AuthGuardDataProvider.cs
-OrderDataProvider.cs
-Product data provider.cs
-OrderPanelContext.cs
+Open OrderApi.sln and edit the SQL connection script in the following :
+- AuthGuardDataProvider.cs
+- OrderDataProvider.cs
+- Product data provider.cs
+- OrderPanelContext.cs
+
+```
 With this script -> “Server=DESKTOP-CVKC6GP\SQLEXPRESS;Database=OrderPanel;Trusted_Connection=True;”
 Restore nuget packages if necessary 
-Then run the application ( F5 ) 
+```
+Then run the application ( F5 )
 
 ### Setup Angular (client side) 
 
 Inside the OrderApi.zip file, there is an OrderPanel folder where you will find the angular application excluding the node modules.
-Open the OrderPanel folder using Visual Studio code, then using CMD or  the included terminal Run the following commands
-Npm install ( restore the node modules )
-Ng serve ( to run the angular application in development mode ) 
-Navigate to http://localhost:4200/ in your browser
+Open the OrderPanel folder using Visual Studio code, then using CMD or  the included terminal Run the following commands :
+- Npm install ( restore the node modules )
+- Ng serve ( to run the angular application in development mode ) 
+- Navigate to http://localhost:4200/ in your browser
 
 
 
