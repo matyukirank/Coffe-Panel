@@ -1,6 +1,6 @@
 # Coffe-Panel (Order Panel)
 
-Coffee panel on ordering progressive web application that allows users to order different beverages and have their order logged on a kitchen page. It also has administrative capabilities which include restocking of different beverages and deletion of other pending or completed orders
+Coffee panel is an ordering progressive web application that allows users to order different beverages and have their order logged on a kitchen page. It also has administrative capabilities which include restocking of different beverages and deletion of other pending or completed orders
 
 The application makes use of Angular, Asp.net  core and SQL server. 
 
